@@ -1,0 +1,18 @@
+
+  git branch -m dipree/org-readme dipree/org-readme
+  git fetch origin
+  git branch -u origin/dipree/org-readme dipree/org-readme
+  git remote set-head origin -a
+  
+  git branch -m patch-1 gitsruns
+  git fetch origin
+  git branch -u origin/gitsruns gitsruns
+  git remote set-head origin -a
+  # Contributor Covenant Code of Conduct# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience form everyone, regardless of a
+GITSRUNS. gov
+CODE_OF_CONDUCT.md
